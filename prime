@@ -11,7 +11,7 @@ for(let i=1;I<=number;i++){
  return false
 }
 
-let ans= prime(9);
+let ans=prime(9);
 if(ans==true){
 console.log("number",is prime);
 }else{
